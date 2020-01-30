@@ -1,0 +1,5 @@
+1.Open project in visual studio.
+2.set up  database connection acordingly.
+3.open oracle txt file for procedure and package.
+package name is PCK_MVC.
+Build project and run.
